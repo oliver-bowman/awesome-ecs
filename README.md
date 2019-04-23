@@ -64,7 +64,9 @@ Examples of using tools to describe your ECS infrastructure as code, for automat
   - [CloudFormation Templates by Cloudonaut](https://cloudonaut.io/new-cloudformation-templates-ecs-cluster-service-legacy-vpc-wrapper-automated-tests/)
   - [ecsq](https://github.com/mightyguava/ecsq) - A developer friendly tool for querying the state of an ECS cluster
   - [deployfish](https://github.com/caltechads/deployfish) - Write a simplified `deployfish.yml` file describing your deployment and let this tool handle the heavy lifting of deploying your service.
-
+  - [troposphere](https://github.com/cloudtools/troposphere) - Allows for easier creation of the CloudFormation  by writing Python code to describe the AWS resources.
+  
+  
 ### Build and Deploy Tools
 
 Tools to help you interact with ECS to launch your containers on your cluster of self managed EC2 instances:
